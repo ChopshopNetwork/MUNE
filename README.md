@@ -62,7 +62,7 @@ up to combine two entries from the table each time you use a portent, so fifty w
   
 **Name:** Interest-Check   
 **Code:**   
-&{template:npcaction} {{name=Ask the Oracle}} {{rname=Player Inquiry}} {{description=**Is there anything of interest?**}}    
+ " &{template:npcaction} {{name=Ask the Oracle}} {{rname=Player Inquiry}} {{description=**Is there anything of interest?**}}    
 &{template:npcaction} {{name=Dungeon Master Emulator}} {{rname=Oracle}} {{description=**Answer** = [[1d6]]    
 1 = No, and...    
 2 = No    
@@ -72,7 +72,7 @@ up to combine two entries from the table each time you use a portent, so fifty w
 6 = Yes, and... | +1 IV point    
 [Add IV Point](!&#13;#IV-point)    
 [Roll Intervention](!&#13;#Intervention)    
-[Ignore](!&#13;#Ignore)}}
+[Ignore](!&#13;#Ignore)}} "
   
   
 **Name:** Status-Quo   
